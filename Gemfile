@@ -8,3 +8,4 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
 end
+gem 'cloudcannon-jekyll', '~> 0.0.6', :group => :jekyll_plugins
